@@ -5,3 +5,4 @@ Scripts/*
 bin/*
 tcl/*
 *.pyc
+.cache/*
